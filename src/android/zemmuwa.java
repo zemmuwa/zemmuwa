@@ -1,4 +1,4 @@
-package cordova_plugin_zemmuwa;
+package cordova.plugin.zemmuwa;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
